@@ -1,2 +1,2 @@
 # SNN-IrisDataset
-A single neuron network for analyzing the Iris data set of scikit-learn.
+A single neuron network to analyze the Iris data set of scikit-learn and do some predictions
